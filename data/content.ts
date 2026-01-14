@@ -3,7 +3,7 @@ import { GraduationCap, BookOpen, FileText, ShieldCheck, Clock, CheckCircle } fr
 export const SITE_CONFIG = {
   name: "LulusBareng.com",
   description: "Jasa Skripsi, Tesis & Masalah Akademik Terpercaya.",
-  whatsapp: "6282318502825", // Ganti dengan nomor asli
+  whatsapp: "6285756287445", // Ganti dengan nomor asli
   email: "info@lulusbareng.com",
   domain: "https://lulusbareng.com",
 };
